@@ -1,5 +1,5 @@
 # Full-Stack-Development-Tutorial-Flipit-IT-Solution
-## Daily practice - Full stack development Tutorial. 
+## Daily practice - Full stack development Tutorial
 
 **Screenshots: S1: Front-End Development** 
 **::Day-1**
